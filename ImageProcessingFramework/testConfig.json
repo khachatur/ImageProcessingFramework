@@ -1,0 +1,14 @@
+[
+   {
+      "PluginName":"ResizeEffect",
+      "Parameters":{
+         "size":"100"
+      }
+   },
+   {
+      "PluginName":"BlurEffect",
+      "Parameters":{
+         "radius":"2"
+      }
+   }
+]
